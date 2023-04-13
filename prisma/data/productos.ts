@@ -354,5 +354,6 @@ const productos = [
     categoriaId: 3,
   },
 ];
+//
 
 export { productos };
